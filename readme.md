@@ -4,6 +4,8 @@
 [![Build Status](https://travis-ci.org/dsernst/hapi-namespace.svg?branch=master)](https://travis-ci.org/dsernst/hapi-namespace)
 [![Coverage Status](https://coveralls.io/repos/dsernst/hapi-namespace/badge.svg?branch=master&service=github)](https://coveralls.io/github/dsernst/hapi-namespace?branch=master)
 
+#### Add namespace prefixes to Hapi routes, like [express-namespace](https://github.com/expressjs/express-namespace)
+
 ## Install
 
 Install from npm:
