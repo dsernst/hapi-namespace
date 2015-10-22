@@ -1,5 +1,9 @@
 # hapi-namespace
 
+[![NPM Version](https://img.shields.io/npm/v/hapi-namespace.svg)](https://www.npmjs.com/package/hapi-namespace)
+[![Build Status](https://travis-ci.org/dsernst/hapi-namespace.svg?branch=master)](https://travis-ci.org/dsernst/hapi-namespace)
+[![Coverage Status](https://coveralls.io/repos/dsernst/hapi-namespace/badge.svg?branch=master&service=github)](https://coveralls.io/github/dsernst/hapi-namespace?branch=master)
+
 ## Install
 
 Install from npm:
