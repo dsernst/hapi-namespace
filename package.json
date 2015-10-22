@@ -4,6 +4,7 @@
   "description": "Add namespace prefixes to Hapi routes, like express-namespace",
   "main": "index.js",
   "scripts": {
+    "cover": "istanbul cover _mocha",
     "test": "mocha"
   },
   "keywords": [
@@ -15,6 +16,7 @@
   "author": "dsernst",
   "license": "ISC",
   "devDependencies": {
+    "istanbul": "^0.4.0",
     "mocha": "^2.3.3",
     "should": "^7.1.1"
   }
