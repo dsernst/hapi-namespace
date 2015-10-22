@@ -16,8 +16,10 @@
   "author": "dsernst",
   "license": "ISC",
   "devDependencies": {
+    "coveralls": "^2.11.4",
     "istanbul": "^0.4.0",
     "mocha": "^2.3.3",
+    "mocha-lcov-reporter": "^1.0.0",
     "should": "^7.1.1"
   }
 }
