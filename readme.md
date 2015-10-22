@@ -14,7 +14,7 @@ npm i --save hapi-namespace
 
 Then require in your routing file:
 
-```
+```js
 var namespace = require('hapi-namespace')
 ```
 
@@ -27,7 +27,7 @@ var namespace = require('hapi-namespace')
 
 `routes` is an array of [hapi route objects](http://hapijs.com/tutorials/routing)
 
-Here's an example:
+##### Here's an example:
 
 ```js
 'use strict'
