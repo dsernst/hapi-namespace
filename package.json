@@ -1,6 +1,6 @@
 {
   "name": "hapi-namespace",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Add namespace prefixes to Hapi routes, like express-namespace",
   "main": "index.js",
   "scripts": {
