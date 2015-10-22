@@ -14,6 +14,10 @@
     "prefix"
   ],
   "author": "dsernst",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsernst/hapi-namespace.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "coveralls": "^2.11.4",
