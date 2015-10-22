@@ -25,13 +25,19 @@ var namespace = require('hapi-namespace')
 
 ### `namespace(prefix, routes)`
 
-`prefix` is a string.
+`prefix` is a string
 
 `routes` is an array of [hapi route objects](http://hapijs.com/tutorials/routing)
 
-##### Here's an example:
+***Returns*** an array of routes, with the prefix prepended to each path.
+
+-----------------
+
+Here's an example usage:
 
 ```js
+// This file is users/routes.js
+
 'use strict'
 
 var handlers = require('./handlers')
