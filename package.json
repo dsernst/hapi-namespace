@@ -13,5 +13,8 @@
     "prefix"
   ],
   "author": "dsernst",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^7.1.1"
+  }
 }

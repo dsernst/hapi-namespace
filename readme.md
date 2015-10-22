@@ -31,7 +31,7 @@ Here's an example:
 var handlers = require('./handlers')
 var namespace = require('hapi-namespace')
 
-module.exports = namespace('/companies', [{
+module.exports = namespace('/users', [{
     path: '',
     method: 'GET',
     handler: handlers.find,
