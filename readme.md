@@ -53,3 +53,7 @@ module.exports = namespace('/users', [{
     handler: handlers.removeById,
 }])
 ```
+
+## Tests
+
+Use `npm test` to run the unit tests.
