@@ -66,6 +66,16 @@ module.exports = namespace('/users', [{
 }])
 ```
 
+This will export these routes:
+
+```
+GET '/users'
+POST '/users'
+GET '/users/{id}'
+PUT '/users/{id}'
+DELETE '/users/{id}'
+```
+
 ## Tests
 
 Use `npm test` to run the unit tests.
